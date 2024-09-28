@@ -26,6 +26,7 @@ titles:
 key: page-about
 aside:
   toc: true
+permalink: /about/
 ---
 
 Founded in July 2024, the association ***C**ercle **A**ssociati**f** des J**e**unes Chercheurs et Chercheuses de l'IRISA - **Café!**‎* succeeds to [ADOC](https://adoc.irisa.fr), the former association for IRISA's Ph.D. students. 

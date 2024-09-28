@@ -2,6 +2,7 @@
 layout: article
 title: Contact
 key: page-contact
+permalink: /contact/
 ---
 
 You can contact us by mail, social media or directly see us at our office (if you can catch us) !
