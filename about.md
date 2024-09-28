@@ -24,51 +24,36 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+aside:
+  toc: true
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+Founded in July 2024, the association ***C**ercle **A**ssociati**f** des J**e**unes Chercheurs et Chercheuses de l'IRISA - **Café!**‎* succeeds to [ADOC](https://adoc.irisa.fr), the former association for IRISA's Ph.D. students. 
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+As ADOC disapeared in 2019, we decided to create *Café!*, a non-profit organization (*Association de Loi 1901*) dedicated for every Ph.D. students, post-docs, research engineers and interns of the lab.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+## Goals
 
-## Features
+The association have multiple goals:
+- Ease the integration of Ph.D. students, post-docs, research engineers and interns in the laboratory.
+- Provide useful documents to newcommers.
+- Organize various events to entertain and enrich the socio-cultural life of the laboratory.
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+### In practice…?
 
-## Skins
+In practice, our “sphere of influence” is limited to the IRISA. Our activities include several social events, the writing of a newcomer’s guide, presentations, information posters, sports… **Everyone can propose a new activity or restore former propositions**, it’s up to you to make this “legacy” alive…
 
-TeXt has 6 built-in skins, you can also set up your own skin.
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+## Café!'s Lore
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+You might ask Why is the association is called *Café!* ?
 
-### Highlight Theme
+Coffee (*café* in french) has an important place at the lab due to the many coffee breaks we take. But most importantly, as Ph.D. students, you might know that coffee is essential to our survival! 
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+## Board
+
+Since July 2024, the board of *Café!* is composed by:
+- **Hector** Chabot, president
+- **Florian** Roudot, treasurer
+- **Lucas** Roquet, secretary

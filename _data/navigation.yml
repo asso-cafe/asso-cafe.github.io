@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       News
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -23,7 +23,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       Arşivdekiler
       # @end locale config
-    url: /archive.html
+    url: /news/
 
   - titles:
       # @start locale config
@@ -49,4 +49,10 @@ header:
       fr-LU   : *FR
       tr      : &TR       Hakkında
       # @end locale config
-    url: /about.html
+    url: /about/
+
+  - title: Events
+    url: /news/?tag=Event
+
+  - title: Contact
+    url: /contact/
