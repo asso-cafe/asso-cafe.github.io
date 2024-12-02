@@ -50,3 +50,10 @@ More information about it (program) : [https://www.socinfo.fr/?agenda=journee-du
 #### Master's Students
 - Just fill the food constraints in the evento : [https://evento.renater.fr/survey/journee-autour-du-doctorat-2024-9o6qofb0](https://evento.renater.fr/survey/journee-autour-du-doctorat-2024-9o6qofb0)
 
+## SPONSORS
+
+<img alt="Université de Rennes" src="/assets/logos/univ.png" width="500px"/>   
+
+<img alt="ISTIC" src="/assets/logos/logoisticfr.png" width="500px" />   
+
+<img alt="Ecole Doctorale MATISSE" src="/assets/logos/logo_ed_matisse.png" width="500px" />
